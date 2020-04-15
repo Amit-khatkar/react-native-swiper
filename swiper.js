@@ -1,6 +1,6 @@
 import React, {useRef, useState, useEffect} from "react";
 import { View, StyleSheet, FlatList, Dimensions } from "react-native";
-import SwiperCard from "../../components/swiperCard";
+import SwiperCard from "./components/swiperCard";
 
 const {width} = Dimensions.get('screen');
 
@@ -69,13 +69,13 @@ const Swiper = () => {
 };
 
 const styles = StyleSheet.create({
-	container: {
-		flex: 1,
+    container: {
+        flex: 1,
         width: "100%",
         height: '100%',
-		backgroundColor: "#144fff",
-		alignItems: "center",
-		justifyContent: "center"
-	}
+        backgroundColor: "#144fff",
+        alignItems: "center",
+        justifyContent: "center"
+    }
 });
 export default Swiper;

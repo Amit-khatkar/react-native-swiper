@@ -7,22 +7,22 @@ const { width } = Dimensions.get("screen");
 const data = [
 	{
 		image: "https://bit.ly/3aHaIop",
-		title: "Document Structure",
-		subtitle: "Lets prpare a document structure which can work with us.",
+		title: "React Native",
+		subtitle: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 		buttonText: "Submit",
 		color: "#fcba03",
 	},
 	{
 		image: "https://bit.ly/34gBZvu",
-		title: "COVID-19 REACT",
-		subtitle: "All the developers are working on someting which should work on the project",
+		title: "Showcase",
+		subtitle: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 		buttonText: "Download",
 		color: "#12de59",
 	},
 	{
 		image: "https://bit.ly/3aIJlu4",
-		title: "Document Structure",
-		subtitle: "Lets prpare a document structure which can work with us.",
+		title: "Card Heading",
+		subtitle: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 		buttonText: "Message",
 		color: "#5BC02D",
 	},

@@ -1,3 +1,3 @@
-# react-native-swiper
+# React Native Swiper using Flatlist. 
 
 ![](preview.gif)
